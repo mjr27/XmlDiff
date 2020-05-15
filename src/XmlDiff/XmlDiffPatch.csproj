@@ -7,6 +7,7 @@
         <Company>Microsoft Corporation</Company>
         <Authors>Microsoft</Authors>
         <Product>XmlDiffPatch 1.0</Product>
+        <Version>1.0.0</Version>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/mjr27/XmlDiff</RepositoryUrl>
         <PackageIcon>icon.png</PackageIcon>
