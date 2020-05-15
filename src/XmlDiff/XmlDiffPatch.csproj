@@ -10,8 +10,6 @@
         <Version>1.0.0</Version>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/mjr27/XmlDiff</RepositoryUrl>
-        <PackageIcon>icon.png</PackageIcon>
-        <PackageIconUrl />
         <PackageTags>xml;xmldiff</PackageTags>
         <AssemblyName>XmlDiffPatch</AssemblyName>
         <RootNamespace>Microsoft.XmlDiffPatch</RootNamespace>
@@ -20,11 +18,4 @@
         <DelaySign>false</DelaySign>
         <Description>A library that compares XML files.</Description>
     </PropertyGroup>
-
-    <ItemGroup>
-        <None Include="icon.png">
-            <Pack>True</Pack>
-        </None>
-    </ItemGroup>
-    
 </Project>
